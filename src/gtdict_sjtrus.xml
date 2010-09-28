@@ -1,850 +1,1111 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xml:lang="'sjt'">
-   <e>
-      <lg>
-         <l pos="v">jamm'ed</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="v">умирать</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">pall'ad</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="v">убивать</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">lieššɨd</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="v">лежать</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">årred</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="v">сидеть</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">vɨedted</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="v">спать</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">ponnc</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">перо</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">vɨεnnče</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">мясо</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">siejjp</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">хвост</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">lonn't</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">птица</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">varr</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">кровь</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">takta</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">кость</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">mann'e</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">яйцо</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">kɨll'e</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">рыба</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">kɨtt'ke</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">сердце</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">vɨjvvs</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">печень</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">nɨkčɨm</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">язык</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">čadc'e</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">вода</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">kuullɨd</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="v">слышать</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">tiedt'ed</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="v">знать</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">manna</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">луна</t>
-            <t xml:lang="'rus'" pos="n">месяц</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">jɨjj</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">ночь</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">peivv'e</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">солнце</t>
-            <t xml:lang="'rus'" pos="n">день</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">kɨrr'ted</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="v">летать</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">čɨenn'čed</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="v">стоять</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">vɨjjed</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="v">плавать</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">mɨrr</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">дерево</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">vilgis'</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="a">белый</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">ruč'kes'</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="a">жёлтый</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pro">pɨgk</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="pro">всё</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">kunn</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">зола</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">čiejjve</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">живот</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">šurr</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="a">большой</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">čahpɨs'</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="a">чёрный</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">rann'te</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">грудь</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">vɨjj</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">масло</t>
-            <t xml:lang="'rus'" pos="n">жир</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">kallm</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="a">холодный</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">pienɨj</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">собака</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">koš'kes'</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="a">сухой</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">piellje</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">ухо</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">jemm'ne</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">земля</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">kannc</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">ноготь</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">toll</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">огонь</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">jill'ke</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">стопа</t>
-            <t xml:lang="'rus'" pos="n">нога</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">šuvv</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="a">хороший</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">vɨpp</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">волосы</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">ǩidt</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">рука</t>
-            <t xml:lang="'rus'" pos="n">кисть</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">vɨejjve</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">голова</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">čierr've</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">рог</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">pakks</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="a">жаркий</t>
-            <t xml:lang="'rus'" pos="a">горячий</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pro">monn</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="pro">я</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">puvvl</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">колено</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">lasst</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">лист</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">kugkɨs'</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="a">длинный</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">erstoll'a</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">мужчина</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">lɨehke</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">гора</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">namm</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">имя</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">nišǩamant</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">шея</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">odt</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="a">новый</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">niunn'</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">нос</t>
-            <t xml:lang="'rus'" pos="n">клюв</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="num">akt</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="num">один</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">olmɨj</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">человек</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">abb're</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">дождь</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">roškes'</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="a">красный</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">endas</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">корень</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">jorbɨs'</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="a">круглый</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">vɨns</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">песок</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">lɨšš'ke</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">кожа</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">udc'</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="a">маленький</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">sɨvv</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">дым</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">tass'ta</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">звезда</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">kiedd'ke</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">камень</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pro">tadta</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="pro">этот</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">kacc'ked</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="v">кусать</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">pɨell'ted</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="v">жечь</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">pɨedted</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="v">приходить</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">jugkid</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="v">пить</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">porrɨd</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="v">есть</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">ann'ted</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="v">давать</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">ciell'ked</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="v">сказать</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">ujjned</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="v">видеть</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">kɨkt</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="n">два</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pro">mii</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="pro">что</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pro">kie</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="pro">кто</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pro">tonn</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="'rus'" pos="pro">ты</t>
-         </tg>
-      </mg>
-   </e>
+<r xml:lang="sjt" orthography_variant="ksdp">
+	<e>
+		<lg>
+			<l pos="v">jamm'ed</l>
+			<orth>
+				<variant type="ksdp_cyr">яммед</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="v">умирать</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="v">pall'ad</l>
+			<orth>
+				<variant type="ksdp_cyr">палляд</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="v">убивать</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="v">lieššɨd</l>
+			<orth>
+				<variant type="ksdp_cyr">ле̄шшыд</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="v">лежать</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="v">årred</l>
+			<orth>
+				<variant type="ksdp_cyr">оаррэд</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="v">сидеть</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="v">vɨedted</l>
+			<orth>
+				<variant type="ksdp_cyr">выэдтэд</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="v">спать</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">ponnc</l>
+			<orth>
+				<variant type="ksdp_cyr">поннц</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">перо</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">vɨennče</l>
+			<orth>
+				<variant type="ksdp_cyr">выэннче</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">мясо</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">siejjp</l>
+			<orth>
+				<variant type="ksdp_cyr">се̄ййп</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">хвост</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">lonn't</l>
+			<orth>
+				<variant type="ksdp_cyr">лонньт</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">птица</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">varr</l>
+			<orth>
+				<variant type="ksdp_cyr">варр</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">кровь</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">takta</l>
+			<orth>
+				<variant type="ksdp_cyr">такта</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">кость</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">mann'e</l>
+			<orth>
+				<variant type="ksdp_cyr">манне</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">яйцо</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">kɨll'e</l>
+			<orth>
+				<variant type="ksdp_cyr">кылле</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">рыба</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">kɨdd'ke</l>
+			<orth>
+				<variant type="ksdp_cyr">кыдд'кэ</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">сердце</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">vɨjvvs</l>
+			<orth>
+				<variant type="ksdp_cyr">выйввс</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">печень</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">nɨkčɨm</l>
+			<orth>
+				<variant type="ksdp_cyr">ныкчым</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">язык</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">čadc'e</l>
+			<orth>
+				<variant type="ksdp_cyr">чадце</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">вода</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="v">kullɨd</l>
+			<orth>
+				<variant type="ksdp_cyr">куллыд</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="v">слышать</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="v">tiedt'ed</l>
+			<orth>
+				<variant type="ksdp_cyr">те̄дтед</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="v">знать</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">manna</l>
+			<orth>
+				<variant type="ksdp_cyr">манна</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">луна</t></tg></mg><mg><tg>
+			
+				<t xml:lang="rus" pos="n">месяц</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">jɨjj</l>
+			<orth>
+				<variant type="ksdp_cyr">йыйй</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">ночь</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">peivv'e</l>
+			<orth>
+				<variant type="ksdp_cyr">пэйвве</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">солнце</t>
+				</tg>
+		</mg><mg>
+			<tg>
+				<t xml:lang="rus" pos="n">день</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="v">kɨrr'ted</l>
+			<orth>
+				<variant type="ksdp_cyr">кыррьтэд</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="v">летать</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="v">čɨenn'čed</l>
+			<orth>
+				<variant type="ksdp_cyr">чыэнньчед</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="v">стоять</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="v">vɨjjed</l>
+			<orth>
+				<variant type="ksdp_cyr">выййед</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="v">плавать</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">mɨrr</l>
+			<orth>
+				<variant type="ksdp_cyr">мырр</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">дерево</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="a">vilgis'</l>
+			<orth>
+				<variant type="ksdp_cyr">вилгись</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="a">белый</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="a">ruč'kes'</l>
+			<orth>
+				<variant type="ksdp_cyr">ручькесь</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="a">жёлтый</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="pro">pɨgk</l>
+			<orth>
+				<variant type="ksdp_cyr">пыгк</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="pro">всё</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">kunn</l>
+			<orth>
+				<variant type="ksdp_cyr">кунн</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">зола</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">čiejjve</l>
+			<orth>
+				<variant type="ksdp_cyr">че̄ййве</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">живот</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="a">šurr</l>
+			<orth>
+				<variant type="ksdp_cyr">шурр</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="a">большой</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="a">čahpɨs'</l>
+			<orth>
+				<variant type="ksdp_cyr">чаһпысь</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="a">чёрный</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">rann'te</l>
+			<orth>
+				<variant type="ksdp_cyr">ранньтэ</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">грудь</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">vɨjj</l>
+			<orth>
+				<variant type="ksdp_cyr">выйй</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">масло</t>
+				</tg>
+		</mg><mg>
+			<tg>
+				<t xml:lang="rus" pos="n">жир</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="a">kallm</l>
+			<orth>
+				<variant type="ksdp_cyr">каллм</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="a">холодный</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">pienɨj</l>
+			<orth>
+				<variant type="ksdp_cyr">пе̄ный</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">собака</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="a">koš'kes'</l>
+			<orth>
+				<variant type="ksdp_cyr">кошькэсь</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="a">сухой</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">piellje</l>
+			<orth>
+				<variant type="ksdp_cyr">пе̄лльйе</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">ухо</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">jemm'ne</l>
+			<orth>
+				<variant type="ksdp_cyr">йеммьнэ</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">земля</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">kannc</l>
+			<orth>
+				<variant type="ksdp_cyr">каннц</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">ноготь</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">toll</l>
+			<orth>
+				<variant type="ksdp_cyr">толл</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">огонь</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">jill'ke</l>
+			<orth>
+				<variant type="ksdp_cyr">йиллькэ</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">стопа</t></tg><tg>
+				<t xml:lang="rus" pos="n">нога</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="a">šuvv</l>
+			<orth>
+				<variant type="ksdp_cyr">шувв</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="a">хороший</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">vɨpp</l>
+			<orth>
+				<variant type="ksdp_cyr">выпп</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">волос</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">kidt</l>
+			<orth>
+				<variant type="ksdp_cyr">кидт</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">рука</t></tg><tg>
+				<t xml:lang="rus" pos="n">кисть</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">vɨejjve</l>
+			<orth>
+				<variant type="ksdp_cyr">выэййвэ</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">голова</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">čierr've</l>
+			<orth>
+				<variant type="ksdp_cyr">че̄ррьвэ</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">рог</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="a">pakks</l>
+			<orth>
+				<variant type="ksdp_cyr">паккс</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="a">жаркий</t></tg><tg>
+				<t xml:lang="rus" pos="a">горячий</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="pro">monn</l>
+			<orth>
+				<variant type="ksdp_cyr">монн</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="pro">я</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">puvvl</l>
+			<orth>
+				<variant type="ksdp_cyr">пуввл</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">колено</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">lasst</l>
+			<orth>
+				<variant type="ksdp_cyr">ласст</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">лист</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="a">kugkɨs'</l>
+			<orth>
+				<variant type="ksdp_cyr">кугкысь</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="a">длинный</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">erstoll'a</l>
+			<orth>
+				<variant type="ksdp_cyr">эрстолля</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">мужчина</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">lɨehke</l>
+			<orth>
+				<variant type="ksdp_cyr">лыэһке</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">гора</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">namm</l>
+			<orth>
+				<variant type="ksdp_cyr">намм</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">имя</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">niškamant</l>
+			<orth>
+				<variant type="ksdp_cyr">нишкамант</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">шея</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="a">odt</l>
+			<orth>
+				<variant type="ksdp_cyr">одт</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="a">новый</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">niunn'</l>
+			<orth>
+				<variant type="ksdp_cyr">ню̄ннь</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">нос</t></tg>
+		</mg>
+		<mg><tg>
+				<t xml:lang="rus" pos="n">клюв</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="num">akt</l>
+			<orth>
+				<variant type="ksdp_cyr">акт</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="num">один</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">olmɨj</l>
+			<orth>
+				<variant type="ksdp_cyr">олмый</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">человек</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">abb're</l>
+			<orth>
+				<variant type="ksdp_cyr">аббьрэ</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">дождь</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="a">roškes'</l>
+			<orth>
+				<variant type="ksdp_cyr">рошкэсь</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="a">красный</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">endas</l>
+			<orth>
+				<variant type="ksdp_cyr">эндас</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">корень</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="a">jorbɨs'</l>
+			<orth>
+				<variant type="ksdp_cyr">ёрбысь</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="a">круглый</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">vɨns</l>
+			<orth>
+				<variant type="ksdp_cyr">вынс</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">песок</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">lɨšš'ke</l>
+			<orth>
+				<variant type="ksdp_cyr">лышшькэ</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">кожа</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="a">udc'</l>
+			<orth>
+				<variant type="ksdp_cyr">удць</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="a">маленький</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">sɨvv</l>
+			<orth>
+				<variant type="ksdp_cyr">сывв</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">дым</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">tass'ta</l>
+			<orth>
+				<variant type="ksdp_cyr">тассьта</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">звезда</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">kiedd'ke</l>
+			<orth>
+				<variant type="ksdp_cyr">ке̄ддькэ</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">камень</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="pro">tadta</l>
+			<orth>
+				<variant type="ksdp_cyr">тадта</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="pro">этот</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="v">kadc'ked</l>
+			<orth>
+				<variant type="ksdp_cyr">кадцькэд</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="v">кусать</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="v">pɨell'ted</l>
+			<orth>
+				<variant type="ksdp_cyr">пыэлльтэд</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="v">жечь</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="v">pɨedted</l>
+			<orth>
+				<variant type="ksdp_cyr">пыэдтэд</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="v">приходить</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="v">jugkid</l>
+			<orth>
+				<variant type="ksdp_cyr">югкид</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="v">пить</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="v">porrɨd</l>
+			<orth>
+				<variant type="ksdp_cyr">поррыд</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="v">есть</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="v">ann'ted</l>
+			<orth>
+				<variant type="ksdp_cyr">анньтэд</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="v">давать</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="v">ciell'ked</l>
+			<orth>
+				<variant type="ksdp_cyr">це̄ллькэд</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="v">сказать</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="v">ujjned</l>
+			<orth>
+				<variant type="ksdp_cyr">уййнэд</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="v">видеть</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n">kɨkt</l>
+			<orth>
+				<variant type="ksdp_cyr">кыкт</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="n">два</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="pro">mii</l>
+			<orth>
+				<variant type="ksdp_cyr">мӣ</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="pro">что</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="pro">kie</l>
+			<orth>
+				<variant type="ksdp_cyr">ке̄</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="pro">кто</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="pro">tonn</l>
+			<orth>
+				<variant type="ksdp_cyr">тонн</variant>
+			</orth>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="pro">ты</t>
+			</tg>
+		</mg>
+	</e>
 </r>
