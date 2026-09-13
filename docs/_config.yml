@@ -1,13 +1,6 @@
-remote_theme: giellalt/jekyll-theme-giellalt@main
+theme: jekyll-theme-giellalt
 title: Dictionary for Ter Saaami ⇒ Russian
 description: An electronic dictionary from Ter Saaami to Russian
-plugins:
-  - jekyll-remote-theme
-  - jekyll-seo-tag
-  - jekyll-github-metadata
-  - jekyll-include-cache
-  - jemoji
-  - jekyll-optional-front-matter
 
 defaults:
   - scope: { path: "" }
